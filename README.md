@@ -10,8 +10,6 @@ https://iftp.chinamoney.com.cn/english/bdInfo/
 4. 保存成有效csv文件
 
 代码：
-
-
 import requests
 import csv
 f=open('第一题.csv',mode='a',encoding='utf-8',newline='')
